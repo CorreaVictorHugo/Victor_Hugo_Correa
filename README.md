@@ -53,6 +53,9 @@ Criar uma vitrine profissional que vá além de um currículo tradicional, demon
 - **Experiência Profissional**  
   Atuação com automação, análise e suporte a processos corporativos
 
+- **Formação Acadêmica**  
+  Graduação em Educação Física e formação em Análise e Desenvolvimento de Sistemas, conectando habilidades analíticas, comunicação e base técnica
+
 - **Certificados e Cursos**  
   Formação técnica em dados, cloud e desenvolvimento
 
