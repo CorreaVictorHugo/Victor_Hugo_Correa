@@ -62,9 +62,15 @@ Criar uma vitrine profissional que vá além de um currículo tradicional, demon
 - **Portfólio (LinkedIn)**  
   Projetos e artigos publicados com foco em:
   - ETL com Apache Airflow
+  - Engenharia de dados com Azure
   - Modelagem de dados (SQL Server)
   - Análise financeira (DRE)
   - Business Intelligence (Power BI)
+
+- **Projetos no GitHub**
+  Repositórios com código e estudos práticos, incluindo:
+  - Assistente para Candidaturas
+  - Pipeline ETL com Apache Airflow, Python e PostgreSQL
 
 - **Tech Stack**  
   Tecnologias utilizadas no dia a dia
